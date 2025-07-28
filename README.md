@@ -1,6 +1,6 @@
-YOU CAN PROVIDE YOUR OWN INPUT AND CHECK WITH THE OUTPUT OUR MODEL WILL DO ITS PART 😉 BROH!
-
 # Challenge 1a – PDF Outline Extractor
+
+YOU CAN PROVIDE YOUR OWN INPUT AND CHECK WITH THE OUTPUT OUR MODEL WILL DO ITS PART 😉 BROH!
 
 This project extracts a structured outlines from PDF documents using Python, with support for multilingual content and robust heading detection logic. It is built to work inside a Docker container for secure and consistent execution.
 
